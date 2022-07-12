@@ -37,7 +37,7 @@ namespace ConsoleApp2
                 Console.WriteLine(num1 / num2);
             }
             else {
-                Console.WriteLine("You entered an invalid operator");
+                Console.WriteLine("You entered an invalid operator!");
             }
         }
     }
